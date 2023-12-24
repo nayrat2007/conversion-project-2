@@ -1,5 +1,2 @@
-{
-    "name":["nayra"],
-    "age":[16],
-    "city":["assuit"]
-}
+,name,age,city,hobby
+0,nayra,16,assuit,reading
